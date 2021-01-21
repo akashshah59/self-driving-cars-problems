@@ -4,3 +4,4 @@ This repository is a collection of  Data Science and Machine Learning problems t
 1. Motion Forecasting of an agent vehicle.
 2. Object Detection (Any Object)
 3. Vulnerable cycle detection. 
+4. Speed forecasting (Just like traffic forecasting by vehicle loops)
